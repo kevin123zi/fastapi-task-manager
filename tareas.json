@@ -1,0 +1,22 @@
+[
+    {
+        "descripcion": "Deporte",
+        "completada": true
+    },
+    {
+        "descripcion": "dormir",
+        "completada": true
+    },
+    {
+        "descripcion": "correr",
+        "completada": true
+    },
+    {
+        "descripcion": "teclear",
+        "completada": false
+    },
+    {
+        "descripcion": "comer",
+        "completada": false
+    }
+]
